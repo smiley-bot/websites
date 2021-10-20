@@ -1,0 +1,65 @@
+body{
+    background-color:#202020;
+    color:white;
+}
+
+#linka{
+    color:white;
+    text-decoration: none;
+    transition:0.5s;
+}
+
+#linka:hover{
+    color:blue;
+    text-decoration: underline;
+    transition:0.5s;
+}
+
+#linkb{
+    color:white;
+    text-decoration: none;
+    transition:0.5s;
+}
+
+#linkb:hover{
+    color:blue;
+    text-decoration: underline;
+    transition:0.5s;
+}
+
+#burger-button{
+    width:50;
+    height: 40;
+    border: 3px double green;
+    transition: 0.5s;
+}
+
+#burger-button:hover{
+    width: 100px;
+    height: 40;
+    transition: 0.5s;
+}
+
+#homeb{
+    color:white;
+    text-decoration: none;
+    transition:1s;
+}
+
+#creditsb{
+    color:white;
+    text-decoration: none;
+    transition:1s;
+}
+
+#homeb:hover{
+    color:darkcyan;
+    text-decoration: underline;
+    transition:1s;
+}
+
+#creditsb:hover{
+    color:darkcyan;
+    text-decoration: underline;
+    transition:1s;
+}

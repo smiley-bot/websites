@@ -55,11 +55,11 @@ body{
 #homeb:hover{
     color:blue;
     text-decoration: underline;
-    transition:1s;
+    transition:0.5s;
 }
 
 #creditsb:hover{
     color:blue;
     text-decoration: underline;
-    transition:1s;
+    transition:0.5s;
 }

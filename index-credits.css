@@ -53,13 +53,13 @@ body{
 }
 
 #homeb:hover{
-    color:darkcyan;
+    color:blue;
     text-decoration: underline;
     transition:1s;
 }
 
 #creditsb:hover{
-    color:darkcyan;
+    color:blue;
     text-decoration: underline;
     transition:1s;
 }

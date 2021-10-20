@@ -15,3 +15,27 @@ body{
     height: 40;
     transition: 0.5s;
 }
+
+#homeb{
+    color:white;
+    text-decoration: none;
+    transition:1s;
+}
+
+#creditsb{
+    color:white;
+    text-decoration: none;
+    transition:1s;
+}
+
+#homeb:hover{
+    color:blue;
+    text-decoration: underline;
+    transition:1s;
+}
+
+#creditsb:hover{
+    color:blue;
+    text-decoration: underline;
+    transition:1s;
+}

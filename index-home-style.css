@@ -1,0 +1,17 @@
+body{
+    background-color: #202020;
+    color: white;
+}
+
+#burger-button{
+    width:50;
+    height: 40;
+    border: 3px double green;
+    transition: 0.5s;
+}
+
+#burger-button:hover{
+    width: 100px;
+    height: 40;
+    transition: 0.5s;
+}
